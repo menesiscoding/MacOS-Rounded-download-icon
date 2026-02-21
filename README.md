@@ -1,4 +1,4 @@
-# My Project
+# Custom rounded icons download forlder macOs
 I designed custom rounded icons for the Downloads folder in macOS.
 
 ## Installation
